@@ -4,3 +4,4 @@ ola pessoal sou inicante e este é uma de projeto de desenvolvimento de um site 
 desde ja agradeço.
 feito  em bootstrap.
 projet
+estou desenvolvendo se cobrar nada pois servira como experiê para portifolio.
